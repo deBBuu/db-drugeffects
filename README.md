@@ -19,9 +19,8 @@ end)
 
 
 
-# Contact / About me 
+# Contact 
 
 deBBuu#3317 
 
-It's my first script :) 
 
